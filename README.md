@@ -1,4 +1,4 @@
-# Data Science and Machine Learning
+# Machine Learning and Deep Learning
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Yousefess/DataScience2023)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/DataScience2023)
